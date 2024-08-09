@@ -26,7 +26,7 @@ Un bot Discord conçu pour gérer des giveaways dans un serveur. Il offre plusie
 1. Clonez ce dépôt :
 
    ```bash
-   git clone https://github.com/votre_nom_utilisateur/discord-giveaway-bot.git
+   git clone https://github.com/A-Q-Z/discord-giveaway-bot.git
    cd discord-giveaway-bot
 
 ### Explications :
