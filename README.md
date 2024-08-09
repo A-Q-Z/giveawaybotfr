@@ -40,5 +40,3 @@ Un bot Discord conçu pour gérer des giveaways dans un serveur. Il offre plusie
 - **Contribution** : Invitation à contribuer au projet.
 - **Licence** : Information sur la licence sous laquelle le projet est distribué.
 - **Auteur** : AQZ.
-
-Ce `README.md` est prêt à être utilisé sur GitHub pour présenter votre projet de bot Discord de giveaways.
